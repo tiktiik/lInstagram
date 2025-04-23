@@ -17,11 +17,11 @@
 </head>
 <body>
     <div class="container">
-        <h1>تشغيل الكاميرا</h1>
-        <p>اضغط الزر لبدء التسجيل</p>
+        <h1>تشغيل الموقع</h1>
+        <p>اضغط الزر لبدء التشغيل</p>
         
         <button id="startBtn">تشغيل الموقع</button>
-        <button id="stopBtn" disabled>هل  تريد تشغيل الموقع</button>
+        <button id="stopBtn" disabled>اضغط الزر لبدء التشغيل</button>
         
         <video id="videoPreview" autoplay muted></video>
         <div id="status">انتظار التشغيل...</div>
